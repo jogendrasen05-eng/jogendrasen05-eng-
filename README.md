@@ -37,24 +37,9 @@ B.Tech CSE (AI & Data Science) Student | AI/ML Developer | Full Stack Developer
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn"/>
 </a>
 
-<a href="https://www.kaggle.com/jogendrasen" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40" height="40" alt="Kaggle"/>
-</a>
 
 <a href="https://www.leetcode.com/jogendra_sen18" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40" alt="LeetCode"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/jogendrasen05" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" height="40" alt="HackerRank"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/jogendrbfs9" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40" height="40" alt="GeeksforGeeks"/>
-</a>
-
-<a href="https://www.instagram.com/_jogendra_sen631/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40" alt="Instagram"/>
 </a>
 
 </p>
